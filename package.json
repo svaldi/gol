@@ -31,7 +31,8 @@
     "gulp-exec": "^2.1.2"
   },
   "dependencies":{
-    "clear": "0.0.1"
+    "clear": "0.0.1",
+    "sleep": "3.0.1"
   },
   "eslintConfig": {
     "extends": "xo-space",
