@@ -25,7 +25,8 @@ $ npm install
 
 ```js
 Run the game on terminal with:
-gulp gol or node lib/index.js
+gulp gol (to see result)
+node lib/index.js (to see simulation)
 ```
 ## License
 
