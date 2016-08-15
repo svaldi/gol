@@ -53,7 +53,7 @@ gulp.task('watch', function () {
  * Custom Run Command to start game.
  */
 
-gulp.task('gol', function() {
+gulp.task('gol', function () {
   var options = {
     continueOnError: false, // default = false, true means don't emit error event
     pipeStdout: false, // default = false, true means stdout is written to file.contents
