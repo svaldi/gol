@@ -25,7 +25,7 @@ describe('Clear', function () {
     assert.isDefined(Clear, 'great, Clear is defined.');
   });
 
-  it('can be imported', function () {
+  it('can be use it', function () {
     assert.isFunction(Clear, 'great, we can Clear console.');
   });
 });
