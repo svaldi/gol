@@ -6,6 +6,14 @@ describe('Gol', function () {
     assert.isDefined(Gol, 'great, Gol has been defined.');
   });
 
+  it('can be use it', function () {
+    assert.isObject(Gol, 'great, Gol can be use it.');
+  });
+
+  it('can be use it', function () {
+    assert.isNotNull(Gol, 'great, Gol can be use it. (double assurance)');
+  });
+
   it('can start', function () {
     assert.isNotNull(Gol.start, 'great, Gol game exists.');
   });
